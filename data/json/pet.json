@@ -1,0 +1,20 @@
+{
+    "id": 214524201,
+    "category": {
+        "id": 1,
+        "name": "cachorro"
+    },
+    "name": "Ben",
+    "photoUrls": [],
+    "tags": [
+        {
+            "id": 1,
+            "name": "vacinado"
+        },
+        {
+            "id": 9,
+            "name": "vermifugado"
+        }
+    ],
+    "status": "available"
+}
