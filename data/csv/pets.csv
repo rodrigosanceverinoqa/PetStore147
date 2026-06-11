@@ -1,0 +1,3 @@
+id,categoryId,categoryName,name,photoUrls,tags,status
+214524201,1,cachorro,Ben,url1:url2,1;vacinado:9;vermifugado,available
+214524202,1,gato,Garfield,url1:url2,1;vacinado:9;vermifugado,sold
